@@ -8,4 +8,5 @@
 تحديث strong-
 
  Root channel:
-- 🛠️ [@nerimo_ingPandum](https://t.me/artofrooting)
+- 🛠️ [@artofrooting](https://t.me/artofrooting)
+- ☎️ [@nerimo_ingPandum](https:t.me/nerimo_ingPandum)
