@@ -1,8 +1,8 @@
 
 
-# v19.0
+# v19.1
 
-- Update strong 💪🔥💫
+- Update strong 💪🔥🔥
 
      Root channel:
 - 🛠️ [@artofrooting](https://t.me/artofrooting)
