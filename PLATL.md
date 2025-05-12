@@ -3,7 +3,7 @@
 # v19.2
 
 - Update strong 💪🔥🔥  Free for you 🤭
-- so...free jangan direname lagi ya 😂
+- so...semangat ALL STAR TEAM 
 
      Root channel:
 - 🛠️ [@artofrooting](https://t.me/artofrooting)
