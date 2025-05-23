@@ -3,7 +3,10 @@
 # v19.3
 
 - Update strong 💪🔥🔥  Free for you 🤭
-- So...semangat ALL STAR TEAM 
+- Memecahkan masalah Playintegrity Setelah pembaruan terbaru Android 13,14,dan 15
+- jalankan dengan KsuWebUi untuk mengaktifkan spof sdk version to playstore
+- So...semangat ALL STAR TEAM
+- Pasti ada jalan walau jalannya terjal 😂
 
      Root channel:
 - 🛠️ [@artofrooting](https://t.me/artofrooting)
