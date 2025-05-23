@@ -1,9 +1,9 @@
 
 
-# v19.2
+# v19.3
 
 - Update strong 💪🔥🔥  Free for you 🤭
-- so...semangat ALL STAR TEAM 
+- So...semangat ALL STAR TEAM 
 
      Root channel:
 - 🛠️ [@artofrooting](https://t.me/artofrooting)
