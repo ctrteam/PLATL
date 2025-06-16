@@ -1,6 +1,6 @@
 
 
-# v19.5
+# v19.6
 
 - Update strong 💪🔥🔥  Free for you 🤭
 - Memecahkan masalah Playintegrity setelah pembaruan terbaru Android 13,14,dan 15
