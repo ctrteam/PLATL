@@ -1,11 +1,17 @@
+v1.1 version changes:
+Auto Script with the action button:
+Force stop & clear data Play Store → [KILL_GOOGLE_PROGRESS.sh]
 
-# v1.1
+Set Star keybox
+→ [STAR_KEYBOX.sh]
 
-- New metode strong integrity 💪🔥🔥  Free for you 🤭
-- Change fix integrity for all metode root
-- So...semangat ALL STAR TEAM
-- Pasti ada jalan walau jalannya terjal 😂
+Set target.txt
+→ [TARGET_TXT.sh]
 
-     Root channel:
-- 🛠️ [@artofrooting](https://t.me/artofrooting)
-- ☎️ [@nerimo_ingPandum](https://t.me/nerimo_ingPandum)
+Set security patch
+→ [SECURITY_PATCH.sh]
+
+🔧 Other Changes:
+Optimization script [TARGET_TXT.sh]
+Various performance improvements
+Update function fix
