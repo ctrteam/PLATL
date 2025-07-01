@@ -1,8 +1,10 @@
+Star Keybox Manager
+
 v1.1 version changes:
 Auto Script with the action button:
 Force stop & clear data Play Store → [KILL_GOOGLE_PROGRESS.sh]
 
-Set Star keybox
+Set Yuri keybox
 → [STAR_KEYBOX.sh]
 
 Set target.txt
@@ -15,3 +17,5 @@ Set security patch
 Optimization script [TARGET_TXT.sh]
 Various performance improvements
 Update function fix
+
+TETAP SEMANGAT BUAT PEJUANG RUPIAH ✊✊
