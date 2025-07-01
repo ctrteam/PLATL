@@ -6,7 +6,7 @@
 - Force stop & clear data Play Store 
   → [KILL_GOOGLE_PROGRESS.sh]
 
-- Set Yuri keybox  
+- Set Star keybox  
   → [STAR_KEYBOX.sh]
 
 - Set target.txt  
