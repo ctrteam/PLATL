@@ -1,21 +1,23 @@
-Star Keybox Manager
+## Star Keybox Manager
 
-v1.1 version changes:
-Auto Script with the action button:
-Force stop & clear data Play Store → [KILL_GOOGLE_PROGRESS.sh]
+### v1.1 version changes:
 
-Set Yuri keybox
-→ [STAR_KEYBOX.sh]
+#### Auto Script with the action button:
+- Force stop & clear data Play Store 
+  → [KILL_GOOGLE_PROGRESS.sh]
 
-Set target.txt
-→ [TARGET_TXT.sh]
+- Set Yuri keybox  
+  → [STAR_KEYBOX.sh]
 
-Set security patch
-→ [SECURITY_PATCH.sh]
+- Set target.txt  
+  → [TARGET_TXT.sh]
 
-🔧 Other Changes:
-Optimization script [TARGET_TXT.sh]
-Various performance improvements
-Update function fix
+- Set security patch  
+  → [SECURITY_PATCH.sh]
 
-TETAP SEMANGAT BUAT PEJUANG RUPIAH ✊✊
+#### 🔧 Other Changes:
+- Optimization script [TARGET_TXT.sh]
+- Various performance improvements
+- Update function fix
+
+  TETAP SEMANGAT BUAT PEJUANG RUPIAH ✊✊🔥
