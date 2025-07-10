@@ -1,6 +1,6 @@
 ## Star Keybox Manager
 
-### v1.1 version changes:
+### v1.2 version changes:
 
 #### Auto Script with the action button:
 - Force stop & clear data Play Store 
@@ -20,4 +20,16 @@
 - Various performance improvements
 - Update function fix
 
-  TETAP SEMANGAT BUAT PEJUANG RUPIAH ✊✊🔥
+#### Special Thanks :
+
+- Allah Swt
+- My Prophet
+- Yuri ( Yurii0307 )
+- yourbestregard ( yourbestregard )
+- CEHunter ( cvnertnc )
+- Munch ( SudoNothing404 )
+- Wes ( p0ntu5 )
+- Khx ( dpejoh )
+- and my All myteam
+
+TETAP SEMANGAT BUAT PEJUANG RUPIAH ✊✊🔥
