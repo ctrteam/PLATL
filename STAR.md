@@ -8,7 +8,7 @@
 - Munch ( SudoNothing404 )
 - Wes ( p0ntu5 )
 - Khx ( dpejoh )
-- and my All myteam
+- and All MyTeam
 
 ## Star Keybox Manager
 
