@@ -1,3 +1,15 @@
+## Special Thanks :
+
+- Allah SWT 
+- My Prophet Muhammad
+- Yuri ( Yurii0307 )
+- yourbestregard ( yourbestregard )
+- CEHunter ( cvnertnc )
+- Munch ( SudoNothing404 )
+- Wes ( p0ntu5 )
+- Khx ( dpejoh )
+- and my All myteam
+
 ## Star Keybox Manager
 
 ### v1.2 version changes:
@@ -19,17 +31,7 @@
 - Optimization script [TARGET_TXT.sh]
 - Various performance improvements
 - Update function fix
-
-#### Special Thanks :
-
-- Allah Swt
-- My Prophet
-- Yuri ( Yurii0307 )
-- yourbestregard ( yourbestregard )
-- CEHunter ( cvnertnc )
-- Munch ( SudoNothing404 )
-- Wes ( p0ntu5 )
-- Khx ( dpejoh )
-- and my All myteam
+  
+  note : FREE FOR ALL ( not for sales )
 
 TETAP SEMANGAT BUAT PEJUANG RUPIAH ✊✊🔥
