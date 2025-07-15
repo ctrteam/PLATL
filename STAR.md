@@ -1,5 +1,6 @@
-## Special Thanks :
+## Star Keybox Manager v1.3 version changes:
 
+## Special Thanks :
 - Allah SWT 
 - My Prophet Muhammad
 - Yuri ( Yurii0307 )
@@ -8,11 +9,7 @@
 - Munch ( SudoNothing404 )
 - Wes ( p0ntu5 )
 - Khx ( dpejoh )
-- and All MyTeam
-
-## Star Keybox Manager
-
-### v1.3 version changes:
+- And to my Mother in heaven 🤲
 
 #### Auto Script with the action button:
 - Force stop & clear data Play Store 
@@ -28,10 +25,18 @@
   → [SECURITY_PATCH.sh]
 
 #### 🔧 Other Changes:
-- Optimization script [TARGET_TXT.sh]
-- Various performance improvements
-- Update function fix
-  
-  note : FREE FOR ALL ( not for sales )
 
-TETAP SEMANGAT BUAT PEJUANG RUPIAH ✊✊🔥
+🔓 Add Valid Keybox
+🌐 Add new function on webUI:
+
+→ [ONLY SET NECESSARY APP].SH
+→ [KILL ALL PROCESS].SH
+
+🔧 Other Changes:
+→ Fix error Set Verified Boothash not found ( vbmeta diggest is empty )
+→ Optimize display when get error
+→ Various performance improvement
+
+### this is for personal use
+     note : FREE FOR ALL ( not for sales )
+### TETAP SEMANGAT BUAT PEJUANG RUPIAH ✊✊🔥
