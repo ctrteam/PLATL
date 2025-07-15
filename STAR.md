@@ -30,13 +30,14 @@
 🌐 Add new function on webUI:
 
 → [ONLY SET NECESSARY APP].SH
+
 → [KILL ALL PROCESS].SH
 
-🔧 Other Changes:
+🔧 Other Changes: 
 → Fix error Set Verified Boothash not found ( vbmeta diggest is empty )
 → Optimize display when get error
 → Various performance improvement
 
-### this is for personal use
-     note : FREE FOR ALL ( not for sales )
+### THIS IS FOR MY PERSONAL USE
+### note : FREE FOR ALL ( NOT FOR SALES )
 ### TETAP SEMANGAT BUAT PEJUANG RUPIAH ✊✊🔥
