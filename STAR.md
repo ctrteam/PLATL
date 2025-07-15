@@ -12,7 +12,7 @@
 
 ## Star Keybox Manager
 
-### v1.2 version changes:
+### v1.3 version changes:
 
 #### Auto Script with the action button:
 - Force stop & clear data Play Store 
