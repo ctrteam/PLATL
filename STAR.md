@@ -1,4 +1,4 @@
-## Star Keybox Manager v1.3 version changes:
+## StarKeyboxManager v1.3 version changes:
 
 ## Special Thanks :
 - Allah SWT 
