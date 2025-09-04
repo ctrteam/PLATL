@@ -38,8 +38,11 @@
 🔧 Other Changes: 
 
 → Fix error Set Verified Boothash not found ( vbmeta diggest is empty )
+
 → Optimize display when get error
+
 → Various performance improvement
+
 → Not need busybox again
 
 
