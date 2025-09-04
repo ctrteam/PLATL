@@ -1,4 +1,4 @@
-# v1.8
+# v1.9
 
 ## Special Thanks :
 - Allah SWT 
@@ -38,10 +38,10 @@
 🔧 Other Changes: 
 
 → Fix error Set Verified Boothash not found ( vbmeta diggest is empty )
-
 → Optimize display when get error
-
 → Various performance improvement
+→ Not need busybox again
+
 
 ### THIS IS FOR MY PERSONAL USE
 ### note : FREE FOR ALL ( NOT FOR SALES )
