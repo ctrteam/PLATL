@@ -1,4 +1,4 @@
-# v2.5
+# v2.6
 
 ## Special Thanks :
 - Allah SWT 
