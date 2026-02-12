@@ -1,6 +1,6 @@
-# v3.0
+# v3.1
 
-## I hope I get well soon
+## I hope I will soon recover from my illness and be able to return to my activities.
 
 ## Valid keybox ( 3 certificates, can pass strong integrity)
 
