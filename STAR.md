@@ -1,8 +1,6 @@
-# v3.5
+# v3.6
 
-## Ramadhan Mubarak ⭐️🌛
-
-## Valid keybox ( 3 certificates, can pass strong integrity)
+## Softban keybox ( 2 certificates, can pass meet device integrity)
 
 ## Special Thanks :
 - Allah SWT 
