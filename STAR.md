@@ -1,6 +1,10 @@
-# v3.6
+# v3.7
 
-## Softban keybox ( 2 certificates, can pass meet device integrity)
+## Valid keybox 
+
+## ( 3 certificates,can pass Strong device integrity)
+
+## i'am back soon 😁
 
 ## Special Thanks :
 - Allah SWT 
