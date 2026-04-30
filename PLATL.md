@@ -1,10 +1,11 @@
-# v20.0
+# v1.0
 
 - Update strong 💪🔥🔥  Free for you 🤭
 - Update Valid Keybox
-- So...semangat ALL STAR TEAM
+- Valid for Android 10 ~ 12 ( stokrom )
+- So...semangat kamerad opreker ✊️
 - Pasti ada jalan walau jalannya terjal 😂
 
-     Root channel:
-- 🛠️ [@artofrooting](https://t.me/artofrooting)
+     Telegram Contac:
+- 🛠️ [@plat_L](https://t.me/plat_L)
 - ☎️ [@nerimo_ingPandum](https://t.me/nerimo_ingPandum)
