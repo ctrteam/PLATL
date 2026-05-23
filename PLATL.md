@@ -1,4 +1,4 @@
-# v1.1
+# v1.2
 
 - Update strong 💪🔥🔥  Free for you 🤭
 - Update Valid Keybox Android 10 ~ 12 ( stokrom )
