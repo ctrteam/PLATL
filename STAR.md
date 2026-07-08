@@ -1,8 +1,8 @@
-# v4.7
+# v4.8
 
 ## Valid keybox 
 
-## ( 2 certificates,can pass Meet device integrity)
+## ( 3 certificates,can pass strong device integrity)
 
 ## i'am back soon 😁💫
 
